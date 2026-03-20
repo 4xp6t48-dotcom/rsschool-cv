@@ -29,7 +29,7 @@ Built a multi-page portfolio site with CSS animations and interactive JS element
 **Education:**
 
 Bachelor's in Computer Science
-Belarusian State University (BSU), Minsk
+Belarusian State University (BSU), Minsk 
 2022 – 2026 (expected graduation)
 
 > "Web Development" course, studied frontend basics.
